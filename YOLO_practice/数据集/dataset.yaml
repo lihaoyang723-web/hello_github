@@ -1,0 +1,14 @@
+path: ./dataset
+
+train: train/images
+val: val/images
+
+names:
+  0: biggoal
+  1: smallball
+  2: redball
+  3: blueball
+  4: greenball
+
+
+nc: 2

@@ -1,0 +1,5 @@
+biggoal
+smallgoal
+redball
+blueball
+greenball
